@@ -66,7 +66,7 @@
     const liftoffStart = logoEnd + holdTime; // ~4100ms
     const liftoffDuration = 900;             // total sequence lands at ~5000ms
 
-    requestAnimationFrame(() => preloader.classList.add('show'));
+    // requestAnimationFrame(() => preloader.classList.add('show'));
 
     setTimeout(() => preloader.classList.add('liftoff'), liftoffStart);
     setTimeout(finish, liftoffStart + liftoffDuration);
