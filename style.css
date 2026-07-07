@@ -87,7 +87,7 @@ Body: Geist 400 */
     position:absolute;
     top:-64px; left:50%;
     transform:translateX(-50%);
-    width:64px; height:64px;
+    width:64px; height:74px;
     pointer-events:none;
   }
   .preload-logo{
