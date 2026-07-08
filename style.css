@@ -1245,7 +1245,7 @@ span.label-sub {
 
   @media (max-width:820px){
     .accordion{flex-direction:column; height:auto;}
-    .panel{height:96px; flex:none !important;}
+    .panel{height:165px; flex:none !important;}
     .panel.active{height:420px;}
     .panel:not(.active) h3{writing-mode:horizontal-tb; font-size:16px;}
     .panel-index{display:none;}
