@@ -1298,7 +1298,7 @@ span.label-sub {
   .circle.right{
     top: 44%;
     right: 0%;
-    transform: translateX(130%) scale(.85);
+    transform: translateX(100%) scale(.85);
   }
 
 
