@@ -42,6 +42,10 @@ Body: Geist 400 */
     position: relative;
   }
 
+body.home{
+    overflow-y: hidden;
+  }
+
   a{text-decoration:none;color:inherit;}
   ul{list-style:none;}
 
@@ -1294,7 +1298,7 @@ span.label-sub {
   .circle.right{
     top: 44%;
     right: 0%;
-    transform: translateX(170%) scale(.85);
+    transform: translateX(130%) scale(.85);
   }
 
 
